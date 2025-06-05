@@ -1,4 +1,4 @@
-# 🧪 Login
+# Login
 
 | Test Case ID | Test Case Title |  Preconditions | Test Steps   | Test Data | Expected Result | Priority | Severity | Comments |
 |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
